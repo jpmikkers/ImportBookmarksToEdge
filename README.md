@@ -1,5 +1,8 @@
 # ImportBookmarksToEdge
-Powershell script to import bookmarks into Edge browser
+Powershell script to import bookmarks into Edge browser.
+\
+\
+If you're looking for a way to import bookmarks into Google Chrome browser, visit the [ImportBookmarksToChrome](https://github.com/jpmikkers/ImportBookmarksToChrome) repository.
 
 ## Usage
 
